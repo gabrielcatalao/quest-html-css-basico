@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://devemdobro.com/wp-content/uploads/2021/09/logo-devquest-150x150.png" alt="logo devquest" width="180" height="160">
+</div>
 <h1 align="center">Quest de HTML e CSS - Nível Básico</h1>
 
 Este repositório foi criado para receber os aquivos da primeira atividade prárica do curso DevQuest, onde foi solicidado realizar quiatro desafios.
